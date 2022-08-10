@@ -1,0 +1,89 @@
+/* for blog  */
+body{
+	background-color: rgb(148, 148, 255);
+}
+
+#blog{
+	text-align: center;
+	background-color: rgb(255, 255, 255);
+	border:rgb(0, 255, 13) 2px dashed ;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: larger;
+}
+
+
+#titleWritten{
+	margin: 5px;
+	background-image: linear-gradient(to right, rgb(43, 189, 226) , rgb(255, 255, 255));
+}
+
+#nameWritten{
+	margin: 5px;
+	background-image: linear-gradient(to right, rgb(43, 189, 226) , rgb(255, 255, 255));
+	font-size: smaller;
+}
+
+#contentWritten{
+	margin: 5px;
+	border-left:3px rgb(43, 189, 226) solid;
+
+}
+/* for blog */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* for create post  */
+#header{
+	display: block;
+
+}
+#allContent{
+	align-items: center;
+}
+
+
+#info_submit{
+	margin: 20px;
+
+}
+
+
+#titleSubmit{
+	margin: 6px;
+	background-color: rgb(133, 236, 112);
+	font-family: 'Courier New', Courier, monospace;
+	font-size: larger;
+}
+
+
+#usernameSubmit{
+	margin: 6px;
+	background-color: rgb(193, 236, 112);
+	font-family: 'Courier New', Courier, monospace;
+	font-size: larger;
+}
+
+#contentSubmit{
+	margin: 10px;
+	background-color: rgb(236, 213, 112);
+	font-family: 'Courier New', Courier, monospace;
+	font-size: larger;
+}
+
+#Preview_post{
+	border-left: 5px rgb(2, 14, 177) solid ;
+	padding: 10px;
+	margin: 30px;
+}
+/* for create post */
